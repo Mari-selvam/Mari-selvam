@@ -14,7 +14,7 @@ I'm a **final-year AI & Data Science student** passionate about **AI, deep le
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mari-selvam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" style="width: 28%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mari-selvam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats" style="width: 38%;"/>
 <img src="https://media.giphy.com/media/aPLpgeNGvKpyrSaPmX/giphy.gif" alt="AI No Thanks" style="width: 28%;"/>
 </div>
 
