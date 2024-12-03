@@ -11,6 +11,7 @@ I'm a **final-year AI & Data Science student** passionate about **AI, deep le
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mari-selvam&theme=dark&hide_border=false)<br/>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/aPLpgeNGvKpyrSaPmX" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ai-no-thanks-ki-aPLpgeNGvKpyrSaPmX">via GIPHY</a></p>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mari-selvam&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
